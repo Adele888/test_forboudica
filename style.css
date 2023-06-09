@@ -6,7 +6,7 @@ html, body {
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: src("/IMG_1922.jpg");
+  background-image: url("/IMG_1922.jpg");
   min-height: 75%;
 
 h1,h2{
