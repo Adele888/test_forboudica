@@ -25,6 +25,7 @@ p{
 .blurb{
   font-style: italic;
   font-weight: bold;
+  font-family:"Times New Roman", Times, serif;
 }
 h4{font-family:"Times New Roman", Times, serif;
   font-size: 12px;
