@@ -8,6 +8,8 @@ html, body {
   background-size: cover;
   background-image: img src("/IMG_1922.jpg");
   min-height: 75%;
+  
+}
 
 h1,h2{
   font-family: sans-serif;
