@@ -5,27 +5,23 @@ html, body, style {
   text-align:center; 
   color: #d6d6d6; 
 }
-
 h1{
   font-family:'Brush Script MT', cursive;
   font-size: 80px;
-  
+ 
 }
 h2{
   font-size: 18px;
-  font-family: Copperplate, Papyrus, fantasy;
-  bottom-padding:5%;
+  font-family:"Times New Roman", Times, serif;
 }
 p{
   font-family: monospace;
-  font-size: 12px;
-    
+  font-size: 12px; 
 }
 
 .blurb{
   font-style: italic;
   font-weight: bold;
-  font-family:"Times New Roman", Times, serif;
 }
 h4{font-family:"Times New Roman", Times, serif;
   font-size: 12px;
