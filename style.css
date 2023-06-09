@@ -13,7 +13,8 @@ h1,h2{
 }
 h2{
   font-size: 18px;
-   font-family: Copperplate, Papyrus, fantasy;
+  font-family: Copperplate, Papyrus, fantasy;
+  padding-bottom: 15%;
 }
 p{
   font-family: monospace;
