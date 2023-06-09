@@ -5,16 +5,18 @@ html, body, style {
   
 }
 
-h1,h2{
+h1,{
   font-family:'Brush Script MT', cursive;
   font-size: 80px;
   color: #d6d6d6;
   text-align:center;   
+  padding-bottom: 15%;
 }
 h2{
   font-size: 18px;
   font-family: Copperplate, Papyrus, fantasy;
-  padding-bottom: 15%;
+  color: #d6d6d6;
+  text-align:center; 
 }
 p{
   font-family: monospace;
