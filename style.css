@@ -1,8 +1,13 @@
 html, body {
   height: 100%;
   width: 100%;
-  [background-color: red;](background-color: #ff40ff;)
 }
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: src("/IMG_1922.jpg");
+  min-height: 75%;
 
 h1,h2{
   font-family: sans-serif;
